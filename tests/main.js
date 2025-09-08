@@ -1,4 +1,4 @@
-// TestCafe Web Automation Test Suite for DevExpress Example
+// TestCafe Web Automation Test Suite for DevExpress.
 // Author: Subham Bera
 // Website: https://devexpress.github.io/testcafe/example/
 
