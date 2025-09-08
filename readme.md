@@ -297,15 +297,6 @@ We welcome contributions! Here's how you can help:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Support
-
-Need help? We're here for you!
-
-- 📧 **Email**: support@yourproject.com
-- 💬 **Discord**: [Join our community](https://discord.gg/yourproject)
-- 📖 **Documentation**: [Full docs](https://docs.yourproject.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/testcafe-automation-suite/issues)
-
 ## 📈 Project Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/testcafe-automation-suite?style=social)
@@ -313,17 +304,13 @@ Need help? We're here for you!
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/testcafe-automation-suite)
 ![GitHub license](https://img.shields.io/github/license/yourusername/testcafe-automation-suite)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 <div align="center">
 
 ### 🌟 Star this repository if you found it helpful!
 
-**Made with ❤️ by the TestCafe Community**
+**Made with ❤️ by Subham Bera**
 
 [⬆ Back to Top](#-testcafe-web-automation-suite)
 
