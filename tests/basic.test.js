@@ -1,5 +1,5 @@
 // TestCafe Web Automation Test Suite for DevExpress Example
-// Author: Generated for VS Code execution
+// Author: Subham Bera
 // Website: https://devexpress.github.io/testcafe/example/
 
 import { Selector, t } from 'testcafe';
